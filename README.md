@@ -1,2 +1,2 @@
 # Technews
-Seguimiento de curso web 
+Curso Web
